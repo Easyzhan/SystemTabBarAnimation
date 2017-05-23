@@ -6,7 +6,7 @@
       CustomTabBarController *tabbar = [[CustomTabBarController alloc]init];
       self.window.rootViewController = tabbar;
       return YES;
-  }
+      }
   
   另:
   设置导航栏标题时:
